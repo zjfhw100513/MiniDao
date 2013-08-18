@@ -31,6 +31,10 @@ Hibernate实体维护和Mybaits SQL分离的两大优点。
 
 
 
+技术交流
+=======
 作者: 张代浩
+
 技术网站：www.jeecg.org
+
 2013/08/16
