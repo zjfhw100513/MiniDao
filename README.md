@@ -4,8 +4,7 @@ MiniDao
 MiniDao简介及特征
 
 
-MiniDao是Jeecg自己的持久化解决方案，集成了
-Hibernate实体维护和Mybaits SQL分离的两大优点。
+MiniDao是Jeecg自己的持久化解决方案，集成了Hibernate实体维护和Mybaits SQL分离的两大优势。
 具有以下特征:
 
 1.O/R mapping不用设置xml，零配置便于维护
@@ -26,7 +25,7 @@ Hibernate实体维护和Mybaits SQL分离的两大优点。
 
 9.SQL支持脚本语言
 
-
+====
 ※向下兼容Hibernate实体维护方式,实体的增删改查SQL自动生成 
 
 
